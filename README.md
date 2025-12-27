@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working at United Airlines<br>💬 Ask me about Data Science, Machine Learning Engineering, Generative AI and stuff<br>📫 How to reach me: LinkedIn - @abhiisheksoni<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably playing some sports or analyzing stocks
+<br>🔭 I’m currently working at United Airlines<br>💬 Ask me about Data Science, Machine Learning Engineering, Generative AI and stuff<br>📫 How to reach me: Gmail - soniabhishek1501@gmail.com  LinkedIn - @abhiisheksoni<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably playing some sports or analyzing stocks
 
 
 ## 🌐 Socials:
